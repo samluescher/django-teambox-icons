@@ -27,7 +27,7 @@ Put ``teambox_icons`` in your ``INSTALLED_APPS`` setting::
     )
 
 Then add the desired icon folder to your ``MEDIA_TREE_ICON_DIRS`` setting (valid
-choices are ``16px``, ``24x32px``, and ```48px``::
+choices are ``16px``, ``24x32px``, and ``48px``::
 
     MEDIA_TREE_ICON_DIRS = (
         'teambox/24x32px',  # the new folder under your static root
