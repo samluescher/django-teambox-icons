@@ -29,7 +29,7 @@ choices are ``16px```, ``24x32px```, and ```48px```::
     MEDIA_TREE_ICON_DIRS = (
         'teambox/24x32px',
         'media_tree/img/icons/mimetypes',
-        )
+    )
 
 
 LICENSE
