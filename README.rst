@@ -12,6 +12,26 @@ Copyright: (cc) 2009 Teambox Technologies
 Copyright of closed and open folder icon: (cc) 2012 Samuel Luescher
 License: GNU AFFERO GENERAL PUBLIC LICENSE
 
+
+Installation
+============
+
+Put ``teambox_icons`` in your ``INSTALLED_APPS`` setting::
+
+    INSTALLED_APPS = (
+        # ...your apps here...
+        'teambox_icons',
+    )
+
+Then add the desired icon folder to your ``MEDIA_TREE_ICON_DIRS`` setting (valid
+choices are ``16px```, ``24x32px```, and ```48px```::
+
+    MEDIA_TREE_ICON_DIRS = (
+        'teambox/24x32px',
+        'media_tree/img/icons/mimetypes',
+        )
+
+
 LICENSE
 =======
 
