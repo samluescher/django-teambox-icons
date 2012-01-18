@@ -27,8 +27,8 @@ Then add the desired icon folder to your ``MEDIA_TREE_ICON_DIRS`` setting (valid
 choices are ``16px```, ``24x32px```, and ```48px```::
 
     MEDIA_TREE_ICON_DIRS = (
-        'teambox/24x32px',
-        'media_tree/img/icons/mimetypes',
+        'teambox/24x32px',  # the new folder under your static root
+        'media_tree/img/icons/mimetypes',  # default icon folder
     )
 
 
