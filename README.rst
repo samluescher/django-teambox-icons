@@ -8,8 +8,11 @@ MP3, MP4, MPG, PDF, PHP, PNG, PPT, PSD, PY, QT, RAR, RB, RTF, SQL, TIFF, TXT,
 WAV, XLS, XML, YML, ZIP.
 
 Original package: https://github.com/teambox/Free-file-icons
+
 Copyright: (cc) 2009 Teambox Technologies
+
 Copyright of closed and open folder icon: (cc) 2012 Samuel Luescher
+
 License: GNU AFFERO GENERAL PUBLIC LICENSE
 
 
@@ -24,7 +27,7 @@ Put ``teambox_icons`` in your ``INSTALLED_APPS`` setting::
     )
 
 Then add the desired icon folder to your ``MEDIA_TREE_ICON_DIRS`` setting (valid
-choices are ``16px```, ``24x32px```, and ```48px```::
+choices are ``16px``, ``24x32px``, and ```48px``::
 
     MEDIA_TREE_ICON_DIRS = (
         'teambox/24x32px',  # the new folder under your static root
