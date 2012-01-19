@@ -19,6 +19,18 @@ License: GNU AFFERO GENERAL PUBLIC LICENSE
 Installation
 ============
 
+Install from GitHub using ``pip``::
+    
+    $ pip install -e git://github.com/philomat/django-teambox-icons#egg=django-teambox-icons
+
+*or* download the repository and install for the repository folder::
+
+    $ python setup.py install
+
+
+Configuration
+=============
+
 Put ``teambox_icons`` in your ``INSTALLED_APPS`` setting::
 
     INSTALLED_APPS = (
