@@ -11,7 +11,7 @@ Original package: https://github.com/teambox/Free-file-icons
 
 Copyright: (cc) 2009 Teambox Technologies
 
-Copyright of closed and open folder icon: (cc) 2012 Samuel Luescher
+Copyright of folder icons: (cc) 2012 Samuel Luescher
 
 License: GNU AFFERO GENERAL PUBLIC LICENSE
 
@@ -54,7 +54,7 @@ Copyright (C) 2009. Pablo Villalba Villar
 
 Copyright (C) 2009. Teambox Technologies, S.L.
 
-Copyright of closed and open folder icon: (C) 2012 Samuel Luescher
+Copyright of folder icons: (C) 2012 Samuel Luescher
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU Affero General Public License as published by the Free
