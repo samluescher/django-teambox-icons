@@ -7,6 +7,7 @@ CPP, CSS, DAT, DMG, DOC, EXE, FLV, GIF, H, HPP, HTML, ICS, JAVA, JPG, KEY, MID,
 MP3, MP4, MPG, PDF, PHP, PNG, PPT, PSD, PY, QT, RAR, RB, RTF, SQL, TIFF, TXT,
 WAV, XLS, XML, YML, ZIP.
 
+Spawned from http://teambox.com/
 Original package: https://github.com/teambox/Free-file-icons
 
 Copyright: (cc) 2009 Teambox Technologies
