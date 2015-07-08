@@ -23,7 +23,7 @@ Installation
 
 Install from GitHub using ``pip``::
     
-    $ pip install -e git://github.com/philomat/django-teambox-icons#egg=django-teambox-icons
+    $ pip install -e git://github.com/samluescher/django-teambox-icons#egg=django-teambox-icons
 
 *or* download the repository and then install from the repository folder::
 
